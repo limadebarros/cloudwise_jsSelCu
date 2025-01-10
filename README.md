@@ -11,7 +11,7 @@ To run the test:
 2. **Install Dependencies**: Make sure you have all necessary dependencies installed. You can do this by running:
    ```
    npm install
-   \`\`\`
+   ```
 
 3. **Run the Tests**: Execute the tests using the following command:
    ```
