@@ -1,0 +1,16 @@
+{
+  "name": "cloudwise_selenium_js_cucumber",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@cucumber/cucumber": "^11.2.0",
+    "selenium-webdriver": "^4.27.0"
+  }
+}
